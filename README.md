@@ -10,8 +10,7 @@
 
 ---
 
-### Connect with me:
-
+### 🌐 Connect with me
 <p align="left">
   <a href="https://twitter.com/yourprofile" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
