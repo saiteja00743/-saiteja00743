@@ -1,13 +1,13 @@
 # -saiteja00743
-# Hi 👋, I'm [Your Name]
+# Hi 👋, I'm [G.Sai Teja]
 
-🚀 A passionate Full-Stack Developer from [Your Country]
+🚀 A passionate Full-Stack Developer from [India]
 
 - 🔭 I’m currently working on **Freelancing & Open Source**
 - 🌱 I’m currently learning **Full Stack Development**
 - 🤝 I’m looking to collaborate with other developers
 - 💬 Ask me about **HTML, CSS, JS, Python, React**
-- 📫 Reach me at **yourmail@example.com**
+- 📫 Reach me at **gajavellisaiteja123@gmail.com**
 
 ---
 
