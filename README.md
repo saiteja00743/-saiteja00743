@@ -1,4 +1,3 @@
-# -saiteja00743
 # Hi 👋, I'm [G.Sai Teja]
 
 🚀 A passionate Full-Stack Developer from [India]
