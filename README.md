@@ -37,7 +37,6 @@
 </p>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saiteja00743&show_icons=true&theme=radical)
 
 
 
@@ -45,4 +44,4 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=saiteja00743&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saiteja00743&layout=compact&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourUserName&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=saiteja00743&color=blue)
