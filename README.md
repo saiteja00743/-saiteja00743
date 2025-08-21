@@ -37,7 +37,7 @@
 </p>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gajavellisaiteja123&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saiteja00743&show_icons=true&theme=radical)
 
 
 
