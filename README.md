@@ -11,23 +11,12 @@
 ---
 
 ### 🌐 Connect with me
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- X / Twitter -->
-  <a href="https://x.com/yourprofile" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" width="40" height="40"/>
-  </a>
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <!-- Instagram -->
-  <a href="https://instagram.com/yourprofile" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
-  </a>
-  <!-- YouTube -->
-  <a href="https://youtube.com/@yourchannel" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" alt="YouTube" width="40" height="40"/>
-  </a>
+<a href="https://twitter.com/bjyothiswaroop1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bjyothiswaroop1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/swaroop-vitb-73056a10a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swaroopvitb" height="30" width="40" /></a>
+<a href="https://instagram.com/swaroop_vitb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swaroop_vitb" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCmFUoPicoxuJAuR2NfNdQGA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="swaroop vitb" height="30" width="40" /></a>
 </p>
 
 
