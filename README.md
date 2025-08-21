@@ -37,6 +37,8 @@
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YourUserName&color=blue)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUserName&theme=radical)
+
 
 ### 📊 GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical)
